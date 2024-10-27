@@ -11,8 +11,9 @@ function App() {
         </p>
 
         <a href="https://github.com/SystemEngineeringTeam/kurodenwa_flutter_app" >あぷり</a>
-        <a href="https://github.com/SystemEngineeringTeam/kurodenwa_arduino">らずぱい</a>
-        <a href="https://github.com/SystemEngineeringTeam/kurodenwa_raspberrypi">あるでぃーの</a>
+        <a href="https://github.com/SystemEngineeringTeam/kurodenwa_arduino">あるでぃーの</a>
+        <a href="https://github.com/SystemEngineeringTeam/kurodenwa_raspberrypi">らずぱい</a>
+        <a href="https://www.sysken.net/">次サークル</a>
       </header>
     </div>
   );
