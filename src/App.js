@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./Group 2.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -7,16 +7,12 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          複数のrepositorieを表示するのうまくいかなかった.app
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+
+        <a href="https://github.com/SystemEngineeringTeam/kurodenwa_flutter_app" >あぷり</a>
+        <a href="https://github.com/SystemEngineeringTeam/kurodenwa_arduino">らずぱい</a>
+        <a href="https://github.com/SystemEngineeringTeam/kurodenwa_raspberrypi">あるでぃーの</a>
       </header>
     </div>
   );
